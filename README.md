@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Maxiiiii
+- 👀 I’m interested in ... Java, Data structures, Data base(Mysql)
+- 🌱 I’m currently learning ... Full stack development
+- 💞️ I’m looking to collaborate on ... Any creative projects
+- 📫 How to reach me ... maxluoton@gmail.com
